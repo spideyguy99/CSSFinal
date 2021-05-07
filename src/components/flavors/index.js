@@ -1,6 +1,5 @@
 import React from "react";
-import {useState} from "react";
-import {Jumbotron, Card, Button, Modal, Container, Row, Col} from 'react-bootstrap';
+import {Jumbotron, Container, Row, Col} from 'react-bootstrap';
 
 import Chocolate from "./chocolate";
 import Trio from "./trio";

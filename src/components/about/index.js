@@ -1,5 +1,5 @@
 import React from "react";
-import {Container, Image, Row, Col, Carousel, Jumbotron} from "react-bootstrap";
+import {Container, Jumbotron} from "react-bootstrap";
 
 import AboutImg from '../assets/aboutImage.jpg';
 
